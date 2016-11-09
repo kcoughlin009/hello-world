@@ -1,0 +1,2 @@
+POST: https://pi.pardot.com/api/login/version/3
+message body: email=<email>&password=<password>&user_key=<user_key>
